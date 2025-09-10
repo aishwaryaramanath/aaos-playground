@@ -7,6 +7,6 @@ Upload the project,
 Open a Pull request, 
 Add CI/CT (GitHub Actions), 
 Perform Code Reviews and merge, 
-Release Tagging,  
+Release tagging,  
 Commit new changes on main,  
 Cherrypick to release the branch.
